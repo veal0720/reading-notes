@@ -7,4 +7,8 @@
 **ends up being a very personal choice, as personal as the sports teams
 you support.**
 
+### You have to like the **text editor** you choose
+
+
+
 
