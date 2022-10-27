@@ -1,14 +1,11 @@
-# Being curious about why one text editor was favored over another, I
+# Class Two
 
-- would download each text editor just to be able to compare. I can’t
+## How do you choose a text editor?
 
-## say that I’ve found an absolute favorite yet. But choosing a text editor
-
-**ends up being a very personal choice, as personal as the sports teams
-you support.**
-
-### You have to like the **text editor** you choose
-
-
-
-
+- Here are some things to look for when choosing a new text editing program.
+- Speed. It doesn't matter how good the program is, if it's slowing you down then chances are you aren't going  - to stick with it. ...
+- Features. ...
+- Learning Curve. ...
+- Extension Support. ...
+- Ease of Use. ...
+- Domain Support
