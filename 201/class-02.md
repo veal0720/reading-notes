@@ -23,3 +23,6 @@
 - List 4 types of JavaScript operators.
 
 - Describe a real world Problem you could solve with a Function.
+
+
+- Things I want to learn more about
