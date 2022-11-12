@@ -1,13 +1,13 @@
 # Class Five
 
-- Flexbox is designed for one-dimensional content. Explain what this means.
+- What is a real world use case for the alt attribute being used in a website?
 
-- Explain the difference between the main axis and cross axis.
+- How can you improve accessibility of images in an HTML document?
 
-- How can using certain properties of flexbox negatively impact accessibility?
+- Provide an example of when the figure element would be useful in an HTML document.
 
-- What are some advantages of using flexbox over float?
+- Describe the difference between a gif image and an svg image, pretend you are explaining to an elder in your community.
 
-- How does this topic connect with your long term goals?
+- What image type would you use to display a screenshot on your website and why?
 
-- Things I would like to learn more about
+- #Things I would like to learn more about
